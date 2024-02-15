@@ -1,0 +1,96 @@
+<mxfile host="app.diagrams.net" modified="2023-11-16T09:34:38.765Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="M2YCIxL8ThSMYy_i_y5N" version="22.1.2" type="google">
+  <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="" id="LeiZOBDYpiftOhJyvyf_-4">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="40" y="20" width="910" height="510" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="LeiZOBDYpiftOhJyvyf_-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5FC433;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="190" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="LeiZOBDYpiftOhJyvyf_-5" value="&lt;b&gt;Station Name&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="110" width="90" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="LeiZOBDYpiftOhJyvyf_-12" value="Book Charge Station" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CCFF99;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="55" y="150" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LeiZOBDYpiftOhJyvyf_-13" value="Dashboard" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;perimeterSpacing=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="55" y="110" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LeiZOBDYpiftOhJyvyf_-14" value="History" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="55" y="190" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LeiZOBDYpiftOhJyvyf_-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5FC433;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="910" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LeiZOBDYpiftOhJyvyf_-17" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;Book My Charge Station&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="35" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LeiZOBDYpiftOhJyvyf_-26" value="&lt;b&gt;Address&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="110" width="90" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="LeiZOBDYpiftOhJyvyf_-27" value="&lt;b&gt;Date&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="110" width="90" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="LeiZOBDYpiftOhJyvyf_-28" value="&lt;b&gt;Time&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="110" width="90" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="LeiZOBDYpiftOhJyvyf_-29" value="&lt;b&gt;Booked Time&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="110" width="90" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="LeiZOBDYpiftOhJyvyf_-30" value="&lt;b&gt;Payment_Id&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="110" width="90" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="LeiZOBDYpiftOhJyvyf_-31" value="&lt;b&gt;Amount Paid&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="110" width="90" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="LeiZOBDYpiftOhJyvyf_-34" value="Station A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="170" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LeiZOBDYpiftOhJyvyf_-36" value="Address A&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="170" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LeiZOBDYpiftOhJyvyf_-37" value="1/1/2023" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="452.5" y="170" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LeiZOBDYpiftOhJyvyf_-38" value="15:00" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="552.5" y="170" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LeiZOBDYpiftOhJyvyf_-39" value="1000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="652.5" y="170" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LeiZOBDYpiftOhJyvyf_-40" value="abcd" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="752.5" y="170" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LeiZOBDYpiftOhJyvyf_-41" value="15:00 - 16:00" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="846.25" y="170" width="77.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LeiZOBDYpiftOhJyvyf_-42" value="Station B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="254.38" y="220" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LeiZOBDYpiftOhJyvyf_-43" value="Address B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354.38" y="220" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LeiZOBDYpiftOhJyvyf_-44" value="1/1/2023" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="454.38" y="220" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LeiZOBDYpiftOhJyvyf_-45" value="16:00" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="554.38" y="220" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LeiZOBDYpiftOhJyvyf_-46" value="200" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="654.38" y="220" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LeiZOBDYpiftOhJyvyf_-47" value="pqrs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="754.38" y="220" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LeiZOBDYpiftOhJyvyf_-48" value="16:00 - 17:30" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="848.13" y="220" width="77.5" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

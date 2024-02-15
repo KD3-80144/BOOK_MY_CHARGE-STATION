@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" modified="2023-11-14T12:31:21.266Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="uRwE-hYRKeHFqA78aEnZ" version="22.1.0" type="google">
+  <diagram name="Page-1" id="C1pVatFdh0_SVncOPfXW">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_yFQNHF3cXgLA2txM1X0-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="-1" width="840" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="_yFQNHF3cXgLA2txM1X0-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5FC433;" vertex="1" parent="1">
+          <mxGeometry width="840" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_yFQNHF3cXgLA2txM1X0-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5FC433;" vertex="1" parent="1">
+          <mxGeometry y="51" width="160" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="_yFQNHF3cXgLA2txM1X0-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;rotation=105;fillColor=#54DB00;" vertex="1" parent="1">
+          <mxGeometry x="434" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_yFQNHF3cXgLA2txM1X0-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+          <mxGeometry x="440" y="126" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_yFQNHF3cXgLA2txM1X0-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#54DB00;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="_yFQNHF3cXgLA2txM1X0-10" value="Payment Successfull" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="374" y="210" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_yFQNHF3cXgLA2txM1X0-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#54DB00;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="318" y="282" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_yFQNHF3cXgLA2txM1X0-13" value="BACK TO BOOK STATION PAGE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="357" y="283" width="235" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_yFQNHF3cXgLA2txM1X0-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFF99;" vertex="1" parent="1">
+          <mxGeometry x="10" y="66" width="140" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="_yFQNHF3cXgLA2txM1X0-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="110" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_yFQNHF3cXgLA2txM1X0-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="10" y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_yFQNHF3cXgLA2txM1X0-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="777" y="7" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="_yFQNHF3cXgLA2txM1X0-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#54DB00;" vertex="1" parent="1">
+          <mxGeometry x="790" y="16" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="_yFQNHF3cXgLA2txM1X0-22" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#54DB00;" vertex="1" parent="1">
+          <mxGeometry x="786" y="25" width="18" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="_yFQNHF3cXgLA2txM1X0-25" value="Dashboard" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="24" y="68" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_yFQNHF3cXgLA2txM1X0-26" value="Book charge Station" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="17" y="110" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_yFQNHF3cXgLA2txM1X0-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;History&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="12" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A7TEI99SD2ocGHXIKl96-1" value="Book My Charge Station" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-15" y="-42" width="236" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
